@@ -1,14 +1,14 @@
 {
   "schema": 2,
   "product": "咔鸡哥 P5 团本训练服",
-  "release_id": "1.4.15-20261002T051526Z",
-  "published_at": "2026-10-02T05:15:26Z",
+  "release_id": "1.4.15-20261002T054001Z",
+  "published_at": "2026-10-02T05:40:01Z",
   "minimum_launcher_version": "1.4.15",
   "launchers": {
     "macos-arm64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/841f71a65f89da8ca4cba608d85124fbbb45d098bd88f6c234c4c89768e25cb6",
-      "size": 13138192,
-      "sha256": "841f71a65f89da8ca4cba608d85124fbbb45d098bd88f6c234c4c89768e25cb6",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/8fd790e98482e364b5741a9f6b2f305ec5ecdfad026f0aad05184c3e0f448973",
+      "size": 13138190,
+      "sha256": "8fd790e98482e364b5741a9f6b2f305ec5ecdfad026f0aad05184c3e0f448973",
       "version": "1.4.15"
     },
     "windows-amd64": {

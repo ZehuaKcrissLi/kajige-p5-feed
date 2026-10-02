@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ARCHIVE_NAME="Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip"
-EXPECTED_SHA256="5fbab4422c58d91aea845d146c1aa86fd803681231f8aa7231ebba0f0e7fabf5"
+EXPECTED_SHA256="8fe97d46d34f1b9ce076c239dcc0ca84c7e74b79fee5f6c5f495c071e519e382"
 # 官方源排第一位，后面是中国大陆可达的 GitHub 加速线路。逐个尝试，
 # 只有 SHA-256 校验通过才算成功。
 if [[ -n "${KAJIGE_BASE_URL:-}" ]]; then

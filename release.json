@@ -1,7 +1,7 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
   "version": "1.4.15",
-  "published_at": "2026-10-02T05:15:35Z",
+  "published_at": "2026-10-02T05:40:11Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
@@ -88,16 +88,16 @@
       "format": "dmg",
       "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg",
       "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg",
-      "size": 29841565,
-      "sha256": "492f53fa5abe1ad6229da78423fc76cf47fd7668a36c0003c9d7e9e27e4c3401"
+      "size": 29841570,
+      "sha256": "2fb2a635c2e7e8add57f6537e0c89bde3c42196e54c80b18186696604a860526"
     },
     {
       "platform": "macos",
       "format": "zip",
       "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip",
       "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip",
-      "size": 27300671,
-      "sha256": "5fbab4422c58d91aea845d146c1aa86fd803681231f8aa7231ebba0f0e7fabf5"
+      "size": 27300668,
+      "sha256": "8fe97d46d34f1b9ce076c239dcc0ca84c7e74b79fee5f6c5f495c071e519e382"
     },
     {
       "platform": "shared",

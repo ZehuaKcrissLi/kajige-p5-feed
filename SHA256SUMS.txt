@@ -4,8 +4,8 @@
 a93a4b2af46d497b3478000895e9763e1104d12faeeefce9cb57114cb72f6609  ./Kajige-P5-Resources-v1.4.13.zip
 c8165fa341ce43e71c98439af6106fce3b8143cadbe3c3f48c377caa86ad0690  ./Kajige-P5-Resources-v1.4.14.zip
 fdead272a70136582103eff2f878379cbf8fda96fcb9f61aa6553396d47d74ad  ./Kajige-P5-Resources-v1.4.15.zip
-492f53fa5abe1ad6229da78423fc76cf47fd7668a36c0003c9d7e9e27e4c3401  ./Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg
-5fbab4422c58d91aea845d146c1aa86fd803681231f8aa7231ebba0f0e7fabf5  ./Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip
+2fb2a635c2e7e8add57f6537e0c89bde3c42196e54c80b18186696604a860526  ./Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg
+8fe97d46d34f1b9ce076c239dcc0ca84c7e74b79fee5f6c5f495c071e519e382  ./Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip
 9da47f95cb42655dcd9e9ca67ea080a792b97affd50a48f11abe645db7de99a2  ./Kajige-P6-Raid-Trainer-Windows-v1.4.15.zip
 605a4343107f538a5a9480a8229ad8f414fa93023cac9bda0108b0ca56d9bc16  ./assets/kajige-emblem.png
 cdca883ecdbfe4d4762c8b7f94a312810da0691c62737f8cb4af3b057fd52442  ./assets/register.js
@@ -13,8 +13,8 @@ cdca883ecdbfe4d4762c8b7f94a312810da0691c62737f8cb4af3b057fd52442  ./assets/regis
 ab4348a33334adbc1189321d47d45d1c41e13797e7717b01738633d883d653f5  ./assets/site.js
 0d5e695d6ce72fe2b8bca17fd74e870d88902e22c99139e0a4d74a4c8106c0a1  ./client-sources-v1.json
 09fa26242cba2316a3a5cc27ec904edea3b24b85fc6e93a6bd42f69a0b8182a2  ./client-sources-v1.json.sig
-d51f3c72e876f014ec95a613ad24d852a0ee65beac93ff027618cfcc3831cd12  ./index.html
-be53c204131774cf069e7b0e626ea9ce2b9645bb6de476f6ebedbe170a4605f9  ./install-mac.sh
+55bcd0c108614ce5ea6b91111fd8022a10576fd486dd0eb18deada2591507e99  ./index.html
+f26eef01722ebae7ac4d3790b878f528d44acd4d42a3f561bb9512cc0944f432  ./install-mac.sh
 d80adc98af6e5132f869dd17c085b90b01f541e4f34713c50be0f42947b55817  ./internal/KajigeClientMirrorServer-windows-amd64.exe
 b4a42bb3739be76b44c83bb9d04005108074ec042d2d696f27da277b64b1fc7d  ./register.html
-f3920c7fb6b6bf37c4b9dc80819bf5493355a96629a6c3c7f73a69cfe8eae399  ./release.json
+8e56d4f90b19f0951933e25af0df4178b043e511207a0a902f23429b1c762714  ./release.json
