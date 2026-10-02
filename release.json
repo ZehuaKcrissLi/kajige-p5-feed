@@ -1,11 +1,11 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
-  "version": "1.4.14",
-  "published_at": "2026-10-02T04:06:43Z",
+  "version": "1.4.15",
+  "published_at": "2026-10-02T05:15:35Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
-  "windows_hotfix": "signed-auto-mirror-icon-v1.4.14",
+  "windows_hotfix": "signed-auto-mirror-icon-v1.4.15",
   "client_snapshot": {
     "delivery": "backup-only",
     "hosted_by_project": true,
@@ -78,34 +78,34 @@
     {
       "platform": "windows",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Windows-v1.4.14.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.4.14.zip",
-      "size": 13969925,
-      "sha256": "fb0d46252f39c2d1930705f9ee09742a07d8e0b9f787a9e93dfff8e7c24865ce"
+      "file": "Kajige-P6-Raid-Trainer-Windows-v1.4.15.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.4.15.zip",
+      "size": 13973008,
+      "sha256": "9da47f95cb42655dcd9e9ca67ea080a792b97affd50a48f11abe645db7de99a2"
     },
     {
       "platform": "macos",
       "format": "dmg",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.14.dmg",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.14.dmg",
-      "size": 29831245,
-      "sha256": "d1e5e844b587bfd2adcbb7d2bb607b4e5e8493ff756976c7dc1947e07ef5517d"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.15.dmg",
+      "size": 29841565,
+      "sha256": "492f53fa5abe1ad6229da78423fc76cf47fd7668a36c0003c9d7e9e27e4c3401"
     },
     {
       "platform": "macos",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.14.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.14.zip",
-      "size": 27279039,
-      "sha256": "1875aa9e7fe73bfb6fbfb463a00b4223831c3ba22c4620ae374b9683e19e3ca3"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.15.zip",
+      "size": 27300671,
+      "sha256": "5fbab4422c58d91aea845d146c1aa86fd803681231f8aa7231ebba0f0e7fabf5"
     },
     {
       "platform": "shared",
       "format": "resources",
-      "file": "Kajige-P5-Resources-v1.4.14.zip",
-      "url": "/Kajige-P5-Resources-v1.4.14.zip",
-      "size": 121911245,
-      "sha256": "c8165fa341ce43e71c98439af6106fce3b8143cadbe3c3f48c377caa86ad0690"
+      "file": "Kajige-P5-Resources-v1.4.15.zip",
+      "url": "/Kajige-P5-Resources-v1.4.15.zip",
+      "size": 121486182,
+      "sha256": "fdead272a70136582103eff2f878379cbf8fda96fcb9f61aa6553396d47d74ad"
     }
   ],
   "update_feed": {
@@ -130,9 +130,9 @@
     "repository": "ZehuaKcrissLi/kajige-p5-dist",
     "manifest_repository": "ZehuaKcrissLi/kajige-p5-feed",
     "repository_ref": "main",
-    "release_tag": "v1.4.14-p6-20261001",
-    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.4.14-p6-20261001",
-    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.14-p6-20261001",
+    "release_tag": "v1.4.15-p6-20261002",
+    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.4.15-p6-20261002",
+    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.15-p6-20261002",
     "repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-dist/main",
     "manifest_repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-feed/main",
     "github_accelerators": [

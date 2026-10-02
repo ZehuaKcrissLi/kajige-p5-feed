@@ -1,21 +1,21 @@
 {
   "schema": 2,
   "product": "咔鸡哥 P5 团本训练服",
-  "release_id": "1.4.14-20261002T040052Z",
-  "published_at": "2026-10-02T04:00:52Z",
-  "minimum_launcher_version": "1.4.14",
+  "release_id": "1.4.15-20261002T051526Z",
+  "published_at": "2026-10-02T05:15:26Z",
+  "minimum_launcher_version": "1.4.15",
   "launchers": {
     "macos-arm64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/ddecd724f449db888d16dc55fda02e8e9389592124305f499340791c62b0729e",
-      "size": 13126425,
-      "sha256": "ddecd724f449db888d16dc55fda02e8e9389592124305f499340791c62b0729e",
-      "version": "1.4.14"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/841f71a65f89da8ca4cba608d85124fbbb45d098bd88f6c234c4c89768e25cb6",
+      "size": 13138192,
+      "sha256": "841f71a65f89da8ca4cba608d85124fbbb45d098bd88f6c234c4c89768e25cb6",
+      "version": "1.4.15"
     },
     "windows-amd64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/fdb26ac0fb23b1e360d926949e5da92148cfc39972cf7aa036f834fd7f5496a7",
-      "size": 12036096,
-      "sha256": "fdb26ac0fb23b1e360d926949e5da92148cfc39972cf7aa036f834fd7f5496a7",
-      "version": "1.4.14"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/72c4b6e78b2b316792336c1b41ff66eba358428a266e2bd6c12b798ac6f5a5a8",
+      "size": 12041216,
+      "sha256": "72c4b6e78b2b316792336c1b41ff66eba358428a266e2bd6c12b798ac6f5a5a8",
+      "version": "1.4.15"
     }
   },
   "files": [
@@ -33,9 +33,9 @@
     },
     {
       "path": "Data/patch-K.MPQ",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/48c82a3c89d7b8255538d72b28812984e60e5890717673164b7a33cd1e669bbd",
-      "size": 181551,
-      "sha256": "48c82a3c89d7b8255538d72b28812984e60e5890717673164b7a33cd1e669bbd"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/49427ae7820a48374eb59c873abbe383cac53262a9938cc48fa005956a8406a2",
+      "size": 83639,
+      "sha256": "49427ae7820a48374eb59c873abbe383cac53262a9938cc48fa005956a8406a2"
     },
     {
       "path": "Data/zhCN/connection-help.html",
@@ -135,15 +135,15 @@
     },
     {
       "path": "Interface/AddOns/!KajigeChinesePolish/!KajigeChinesePolish.toc",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/147e8e7c20d668f4f48ff29c9ca7237803663f282a49ab4558ea8b851624c0b0",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/086e2b00ff8251dce05d232e02f2d906b078b89bc55a0486ecb1d3f018850bed",
       "size": 336,
-      "sha256": "147e8e7c20d668f4f48ff29c9ca7237803663f282a49ab4558ea8b851624c0b0"
+      "sha256": "086e2b00ff8251dce05d232e02f2d906b078b89bc55a0486ecb1d3f018850bed"
     },
     {
       "path": "Interface/AddOns/!KajigeChinesePolish/KajigeChinesePolish.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/2f1007106063e35ebeeef4d5009559e36aabc66bf1de1519cf22b2287fbde82c",
-      "size": 27476,
-      "sha256": "2f1007106063e35ebeeef4d5009559e36aabc66bf1de1519cf22b2287fbde82c"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/c7a0441f09b538c099561bb65a008b3205d1efaacc4ba4c98d4d21ae72bb8107",
+      "size": 28865,
+      "sha256": "c7a0441f09b538c099561bb65a008b3205d1efaacc4ba4c98d4d21ae72bb8107"
     },
     {
       "path": "Interface/AddOns/!KajigeChinesePolish/KajigeMapNames.lua",
@@ -177,9 +177,9 @@
     },
     {
       "path": "Interface/AddOns/!KajigeRaidCoach/!KajigeRaidCoach.toc",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/70dc5f5d4c857aca41a07f7a35810f85d65e9728f2b670aadf3e127fbaa1e091",
-      "size": 362,
-      "sha256": "70dc5f5d4c857aca41a07f7a35810f85d65e9728f2b670aadf3e127fbaa1e091"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/4b7af720353f628dabc58836c4da59504b788d544e541104a6c847335a615c4c",
+      "size": 431,
+      "sha256": "4b7af720353f628dabc58836c4da59504b788d544e541104a6c847335a615c4c"
     },
     {
       "path": "Interface/AddOns/!KajigeRaidCoach/Bindings.xml",
@@ -189,9 +189,9 @@
     },
     {
       "path": "Interface/AddOns/!KajigeRaidCoach/KajigeRaidCoach.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/0e39e101d65ab734b2943238a511cb3ad972ca9426fa5dfe90debaf0801bb602",
-      "size": 44737,
-      "sha256": "0e39e101d65ab734b2943238a511cb3ad972ca9426fa5dfe90debaf0801bb602"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/1bbf5a82b6e9129ca73028f2817973cba80c8f72f46248b245d5531b746b6c05",
+      "size": 45246,
+      "sha256": "1bbf5a82b6e9129ca73028f2817973cba80c8f72f46248b245d5531b746b6c05"
     },
     {
       "path": "Interface/AddOns/!KajigeRaidCoach/KalecgosCommandCoach.lua",
@@ -213,15 +213,15 @@
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/!KajigeSWTControl.toc",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/784b280da6424344d1811d780a9db48ef966f40a664118d813c4bd3c05641c9a",
-      "size": 399,
-      "sha256": "784b280da6424344d1811d780a9db48ef966f40a664118d813c4bd3c05641c9a"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/cc991fab4f7dc3e26d916e362beb23c4442ab24c0e11c0c9b06cd18a68a117de",
+      "size": 443,
+      "sha256": "cc991fab4f7dc3e26d916e362beb23c4442ab24c0e11c0c9b06cd18a68a117de"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/KajigeSWTControl.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/3a96d551d7998ca10b6e1df9b29edfb8dd505ab0da1606299fe3ad7ca3e94e50",
-      "size": 116232,
-      "sha256": "3a96d551d7998ca10b6e1df9b29edfb8dd505ab0da1606299fe3ad7ca3e94e50"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/4f20c2d2ecb1e58a91049b819e3f3fdd1cc92b2e2d5298a3100a52c531d500ad",
+      "size": 119737,
+      "sha256": "4f20c2d2ecb1e58a91049b819e3f3fdd1cc92b2e2d5298a3100a52c531d500ad"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/P4EquipmentData.lua",
@@ -18849,9 +18849,9 @@
     },
     {
       "path": "SunwellTraining/Branding/kajige-login-badge.png",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/9bd318425d3c441d6b05d31a73e08926871fb0c0699d697a66c441c68f47b95f",
-      "size": 352999,
-      "sha256": "9bd318425d3c441d6b05d31a73e08926871fb0c0699d697a66c441c68f47b95f"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/766aa0c172c0ba745f7339f3a8d8080a8f58e9054653cb0421ca77a36ad13205",
+      "size": 82862,
+      "sha256": "766aa0c172c0ba745f7339f3a8d8080a8f58e9054653cb0421ca77a36ad13205"
     },
     {
       "path": "SunwellTraining/Branding/kajige-training.ico",
@@ -18861,15 +18861,15 @@
     },
     {
       "path": "SunwellTraining/Branding/patch-KajigeBrand.MPQ",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/48c82a3c89d7b8255538d72b28812984e60e5890717673164b7a33cd1e669bbd",
-      "size": 181551,
-      "sha256": "48c82a3c89d7b8255538d72b28812984e60e5890717673164b7a33cd1e669bbd"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/49427ae7820a48374eb59c873abbe383cac53262a9938cc48fa005956a8406a2",
+      "size": 83639,
+      "sha256": "49427ae7820a48374eb59c873abbe383cac53262a9938cc48fa005956a8406a2"
     },
     {
       "path": "SunwellTraining/KajigeRelease/MANIFEST.txt",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/91f516ed6a3b791209d6e04541b7c301160cf7707a721f78137de2d7b6fe6d22",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/72b28d281565163bd72b915333dcfbc5022d8b6985cebc51b695493b09d8574d",
       "size": 392,
-      "sha256": "91f516ed6a3b791209d6e04541b7c301160cf7707a721f78137de2d7b6fe6d22"
+      "sha256": "72b28d281565163bd72b915333dcfbc5022d8b6985cebc51b695493b09d8574d"
     },
     {
       "path": "SunwellTraining/ThirdPartyLicenses/AllTheThings/AllTheThings-LICENSE.txt",
@@ -18903,9 +18903,9 @@
     },
     {
       "path": "dxvk.conf",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/e604353fccba7d478e345396bcf8efd68edeb47f57eefd7619f8cdf7120a747c",
-      "size": 499,
-      "sha256": "e604353fccba7d478e345396bcf8efd68edeb47f57eefd7619f8cdf7120a747c"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/dfd2cd77d5982ec4fb5be9c4ceb30ad0c10055266ba0b1e808342f96aa169b4e",
+      "size": 495,
+      "sha256": "dfd2cd77d5982ec4fb5be9c4ceb30ad0c10055266ba0b1e808342f96aa169b4e"
     }
   ]
 }
