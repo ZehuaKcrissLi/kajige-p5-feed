@@ -1,21 +1,21 @@
 {
   "schema": 2,
   "product": "咔鸡哥 P5 团本训练服",
-  "release_id": "1.4.15-20261002T054001Z",
-  "published_at": "2026-10-02T05:40:01Z",
-  "minimum_launcher_version": "1.4.15",
+  "release_id": "1.4.16-20261003T111558Z",
+  "published_at": "2026-10-03T11:15:58Z",
+  "minimum_launcher_version": "1.4.16",
   "launchers": {
     "macos-arm64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/8fd790e98482e364b5741a9f6b2f305ec5ecdfad026f0aad05184c3e0f448973",
-      "size": 13138190,
-      "sha256": "8fd790e98482e364b5741a9f6b2f305ec5ecdfad026f0aad05184c3e0f448973",
-      "version": "1.4.15"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/dcaab855389be2571acb1480f38ad20f44e704ff1a170dbd2c582fba04871cbc",
+      "size": 13138216,
+      "sha256": "dcaab855389be2571acb1480f38ad20f44e704ff1a170dbd2c582fba04871cbc",
+      "version": "1.4.16"
     },
     "windows-amd64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/72c4b6e78b2b316792336c1b41ff66eba358428a266e2bd6c12b798ac6f5a5a8",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/ff4fc6bb2889b823be522d6ea8960cbb5a55df7106f0720e36bdde89fdf21b68",
       "size": 12041216,
-      "sha256": "72c4b6e78b2b316792336c1b41ff66eba358428a266e2bd6c12b798ac6f5a5a8",
-      "version": "1.4.15"
+      "sha256": "ff4fc6bb2889b823be522d6ea8960cbb5a55df7106f0720e36bdde89fdf21b68",
+      "version": "1.4.16"
     }
   },
   "files": [
@@ -219,9 +219,9 @@
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/KajigeSWTControl.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/4f20c2d2ecb1e58a91049b819e3f3fdd1cc92b2e2d5298a3100a52c531d500ad",
-      "size": 119737,
-      "sha256": "4f20c2d2ecb1e58a91049b819e3f3fdd1cc92b2e2d5298a3100a52c531d500ad"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/5273b75a420e264b900cf5f35e1a0f6aee96ecffc3c933f65cd70651dcf2a6a4",
+      "size": 123502,
+      "sha256": "5273b75a420e264b900cf5f35e1a0f6aee96ecffc3c933f65cd70651dcf2a6a4"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/P4EquipmentData.lua",
@@ -18867,9 +18867,9 @@
     },
     {
       "path": "SunwellTraining/KajigeRelease/MANIFEST.txt",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/72b28d281565163bd72b915333dcfbc5022d8b6985cebc51b695493b09d8574d",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/523ff32a9aba2618dbd3805473a4f3db7493ecc6d3e20601b9c726e1dc63bfe6",
       "size": 392,
-      "sha256": "72b28d281565163bd72b915333dcfbc5022d8b6985cebc51b695493b09d8574d"
+      "sha256": "523ff32a9aba2618dbd3805473a4f3db7493ecc6d3e20601b9c726e1dc63bfe6"
     },
     {
       "path": "SunwellTraining/ThirdPartyLicenses/AllTheThings/AllTheThings-LICENSE.txt",
