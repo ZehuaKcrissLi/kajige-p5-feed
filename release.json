@@ -1,13 +1,15 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
   "version": "1.4.17",
-  "published_at": "2026-10-03T23:39:17Z",
+  "published_at": "2026-10-04T03:06:35Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
   "windows_hotfix": "signed-auto-mirror-icon-v1.4.17",
   "client_snapshot": {
-    "delivery": "backup-only",
+    "delivery": "manual-legacy-enUS-only",
+    "automatic_download": false,
+    "locale": "enUS",
     "hosted_by_project": true,
     "source_page": "https://chromiecraft.com/en/downloads/",
     "file": "Kajige-P5-Client-3.3.5a.zip",
@@ -15,7 +17,24 @@
     "size": 17124904828,
     "sha256": "2bf5cc5b33b86fad1b24c064ccb0d4b2d0cccc37b92ce7fddf95854d1a580cbd"
   },
+  "client_installation_policy": {
+    "automatic_locale": "zhCN",
+    "fallback_to_enUS": false,
+    "preserve_existing_or_explicit_import_locale": true,
+    "mainland_full_client_node_deployed": false,
+    "mainland_isp_speed_verified": false
+  },
   "client_sources": [
+    {
+      "priority": 0,
+      "kind": "signed-https-zhcn-transport",
+      "manifest_url": "/client-sources-v1.json",
+      "base_url": "https://haoe.tail4182c5.ts.net/kajige-zhcn-v1",
+      "locale": "zhCN",
+      "mainland_cdn": false,
+      "size": 17475079297,
+      "verification": "ed25519-manifest-and-pinned-file-sha256"
+    },
     {
       "priority": 1,
       "kind": "bittorrent-gameivy-52pk-upstream",
@@ -55,6 +74,8 @@
     {
       "priority": 4,
       "kind": "https-public-upstream",
+      "automatic_download": false,
+      "locale": "enUS",
       "url": "https://btground.dedyn.io/chmi/ChromieCraft_3.3.5a.zip",
       "size": 17674749792,
       "verification": "zip-crc-and-client-baseline"
@@ -62,6 +83,8 @@
     {
       "priority": 5,
       "kind": "bittorrent-public-upstream",
+      "automatic_download": false,
+      "locale": "enUS",
       "url": "magnet:?xt=urn:btih:2ba2833baf733ce0a16040d43ed09491f2bf2ab2&dn=ChromieCraft_3.3.5a.zip&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
       "size": 17674749792,
       "info_hash": "2ba2833baf733ce0a16040d43ed09491f2bf2ab2"
@@ -69,6 +92,8 @@
     {
       "priority": 6,
       "kind": "project-backup-snapshot",
+      "automatic_download": false,
+      "locale": "enUS",
       "url": "https://mac-mini.tail4182c5.ts.net/Kajige-P5-Client-3.3.5a.zip",
       "size": 17124904828,
       "sha256": "2bf5cc5b33b86fad1b24c064ccb0d4b2d0cccc37b92ce7fddf95854d1a580cbd"
@@ -78,26 +103,26 @@
     {
       "platform": "windows",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Windows-v1.4.17.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.4.17.zip",
-      "size": 13973001,
-      "sha256": "645ec2dc923f6448f809196f02e05d22086fde61977d39ebb031a54047180efb"
+      "file": "Kajige-P6-Raid-Trainer-Windows-v1.4.17-cn3-20261003.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.4.17-cn3-20261003.zip",
+      "size": 13949040,
+      "sha256": "e7f627041f3e33766933a5139315f7962acb8bed538a6a144581453c96c96931"
     },
     {
       "platform": "macos",
       "format": "dmg",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.17.dmg",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.17.dmg",
-      "size": 29874516,
-      "sha256": "bb4eee8c370ec524191f625802edcec530268b39581921a186cf7e0776d012bd"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.17-cn3-20261003.dmg",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.17-cn3-20261003.dmg",
+      "size": 29871704,
+      "sha256": "f5a8a08dd888c7d3b68a9949e04039bca7445a1aec99ef9180b4a7b1a75ad6d9"
     },
     {
       "platform": "macos",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.17.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.17.zip",
-      "size": 27306028,
-      "sha256": "8cc2ee88f9158e98619dc697ec3aad6e5eb3615e08379becbeada761cd7fa35e"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.4.17-cn3-20261003.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.4.17-cn3-20261003.zip",
+      "size": 27280485,
+      "sha256": "b9e952b23e285ae257d2a5e09db619b081c7553454c7aa234c219918f4b12059"
     },
     {
       "platform": "shared",
@@ -126,13 +151,13 @@
   "china_mirrors": {
     "schema": 1,
     "policy": "official-first-then-accelerated-github",
-    "note": "大陆加速源只改变下载线路；每个文件仍按固定 SHA-256 与 Ed25519 签名校验。",
+    "note": "公共 GitHub 加速线路仅覆盖小安装包、训练资源及更新；不覆盖约 17.5 GB 完整中文本体。未完成大陆三网速度验证。文件按固定 SHA-256 与 Ed25519 签名校验。",
     "repository": "ZehuaKcrissLi/kajige-p5-dist",
     "manifest_repository": "ZehuaKcrissLi/kajige-p5-feed",
     "repository_ref": "main",
-    "release_tag": "v1.4.17-p6-r2-20261003",
-    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.4.17-p6-r2-20261003",
-    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.17-p6-r2-20261003",
+    "release_tag": "v1.4.17-p6-cn3-20261003",
+    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.4.17-p6-cn3-20261003",
+    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.17-p6-cn3-20261003",
     "repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-dist/main",
     "manifest_repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-feed/main",
     "github_accelerators": [
