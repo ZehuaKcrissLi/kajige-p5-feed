@@ -1,7 +1,7 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
   "version": "1.4.17",
-  "published_at": "2026-10-04T03:06:35Z",
+  "published_at": "2026-10-04T04:40:43Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
@@ -23,6 +23,20 @@
     "preserve_existing_or_explicit_import_locale": true,
     "mainland_full_client_node_deployed": false,
     "mainland_isp_speed_verified": false
+  },
+  "china_manual_import": {
+    "guide_url": "/china-client.html",
+    "kit": {
+      "file": "Kajige-P6-zhCN-Import-Kit-20261004.zip",
+      "url": "/Kajige-P6-zhCN-Import-Kit-20261004.zip",
+      "size": 3762868,
+      "sha256": "26bc40db52764868340ca891786cb6aef1cc4d24133c4d09365a78996a20dbf3",
+      "includes_full_client": false,
+      "mainland_speed_verified": false
+    },
+    "original_torrent_archive": "https://wow.gameivy.com/zhCN/WoW_v3.3.5_zhCN.zip",
+    "original_torrent_archive_verified": true,
+    "baidu_shares_full_download_verified": false
   },
   "client_sources": [
     {
