@@ -1,7 +1,7 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
   "version": "1.4.17",
-  "published_at": "2026-10-04T04:40:43Z",
+  "published_at": "2026-10-04T14:36:05Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
@@ -27,15 +27,22 @@
   "china_manual_import": {
     "guide_url": "/china-client.html",
     "kit": {
-      "file": "Kajige-P6-zhCN-Import-Kit-20261004.zip",
-      "url": "/Kajige-P6-zhCN-Import-Kit-20261004.zip",
-      "size": 3762868,
-      "sha256": "26bc40db52764868340ca891786cb6aef1cc4d24133c4d09365a78996a20dbf3",
+      "file": "Kajige-P6-zhCN-Import-Kit-20261004-r2.zip",
+      "url": "/Kajige-P6-zhCN-Import-Kit-20261004-r2.zip",
+      "size": 3763040,
+      "sha256": "fc3e5fa134e8eede11dc0a6e30f167f78e87277be2c8166092b875bec326024b",
       "includes_full_client": false,
       "mainland_speed_verified": false
     },
     "original_torrent_archive": "https://wow.gameivy.com/zhCN/WoW_v3.3.5_zhCN.zip",
     "original_torrent_archive_verified": true,
+    "baidu_share": {
+      "url": "https://pan.baidu.com/s/13Chik-785yCIA9XRBGOdKA?pwd=KAJI",
+      "code": "KAJI",
+      "supplied_by": "server-owner",
+      "full_download_verified": false,
+      "mainland_speed_verified": false
+    },
     "baidu_shares_full_download_verified": false
   },
   "client_sources": [
@@ -77,9 +84,12 @@
     {
       "priority": 3,
       "kind": "baidu-zhcn-manual-import",
-      "source_page": "https://forum.azerothcore.cn/forum.php?mod=viewthread&tid=1",
-      "client_url": "https://pan.baidu.com/s/1NFdBat5W5r-6xfEKdUUofA?pwd=1qcs",
-      "client_code": "1qcs",
+      "source_page": "https://kaji-training.kcriss.dev/china-client.html",
+      "client_url": "https://pan.baidu.com/s/13Chik-785yCIA9XRBGOdKA?pwd=KAJI",
+      "client_code": "KAJI",
+      "supplied_by": "server-owner",
+      "full_download_verified": false,
+      "mainland_speed_verified": false,
       "replacement_wow_url": "https://pan.baidu.com/s/1UOqihWs5pbFvDJC4YQeJag?pwd=ryry",
       "replacement_wow_code": "ryry",
       "build": 12340,
