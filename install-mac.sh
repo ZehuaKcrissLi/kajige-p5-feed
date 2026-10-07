@@ -1,14 +1,14 @@
 #!/bin/bash
 set -euo pipefail
 
-ARCHIVE_NAME="Kajige-P6-Raid-Trainer-Mac-v1.4.17-cn3-20261003.zip"
-EXPECTED_SHA256="b9e952b23e285ae257d2a5e09db619b081c7553454c7aa234c219918f4b12059"
+ARCHIVE_NAME="Kajige-P6-Raid-Trainer-Mac-v1.4.18.zip"
+EXPECTED_SHA256="8cb977ea5dc2f572cdbcdf9e6acbd5d7aa984d59e3e102061f963bf396147ea1"
 # 官方源排第一位，后面是中国大陆可达的 GitHub 加速线路。逐个尝试，
 # 只有 SHA-256 校验通过才算成功。
 if [[ -n "${KAJIGE_BASE_URL:-}" ]]; then
   SOURCES=("${KAJIGE_BASE_URL}/${ARCHIVE_NAME}")
 else
-  MIRROR_ASSET="https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.17-p6-cn3-20261003/${ARCHIVE_NAME}"
+  MIRROR_ASSET="https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.4.18-p6-workshop-20261007/${ARCHIVE_NAME}"
   SOURCES=(
     "https://kaji-training.kcriss.dev/${ARCHIVE_NAME}"
     "https://gh-proxy.com/${MIRROR_ASSET}"
