@@ -1,11 +1,11 @@
 {
   "product": "咔鸡哥 P6 团本训练服",
-  "version": "1.5.0",
-  "published_at": "2026-10-10T01:02:13Z",
+  "version": "1.6.0",
+  "published_at": "2026-10-10T04:27:17Z",
   "server": "mac-mini.tail4182c5.ts.net",
   "macos_notarized": false,
   "client_included": false,
-  "windows_hotfix": "signed-auto-mirror-icon-v1.5.0",
+  "windows_hotfix": "signed-auto-mirror-icon-v1.6.0",
   "client_snapshot": {
     "delivery": "manual-legacy-enUS-only",
     "automatic_download": false,
@@ -127,34 +127,34 @@
     {
       "platform": "windows",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Windows-v1.5.0.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.5.0.zip",
-      "size": 13949762,
-      "sha256": "04c956137646f083da8b60314c27b629739203734ae21a61f7c4d2c81e910198"
+      "file": "Kajige-P6-Raid-Trainer-Windows-v1.6.0.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Windows-v1.6.0.zip",
+      "size": 13949751,
+      "sha256": "945c50cdb966e9491af65b99f58c9ba2d98d37a378d05b9c1e3c499bf9b62fc2"
     },
     {
       "platform": "macos",
       "format": "dmg",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.5.0.dmg",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.5.0.dmg",
-      "size": 41057343,
-      "sha256": "cc086bc52891ce5ca266a985aee9e44927c84b1824ce342bedc5bc26e36a349f"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.6.0.dmg",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.6.0.dmg",
+      "size": 41080531,
+      "sha256": "ccdd6be3e64e9ec2d8576aadbe1ba159bff6a8da1024eb1230638757aeff2d2a"
     },
     {
       "platform": "macos",
       "format": "zip",
-      "file": "Kajige-P6-Raid-Trainer-Mac-v1.5.0.zip",
-      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.5.0.zip",
-      "size": 38357191,
-      "sha256": "9b8c57586ed59b88f0841b7b44d01e4986c71eb665b6c47d252386ae3b4b651f"
+      "file": "Kajige-P6-Raid-Trainer-Mac-v1.6.0.zip",
+      "url": "/Kajige-P6-Raid-Trainer-Mac-v1.6.0.zip",
+      "size": 38368460,
+      "sha256": "2974497751cc68ea460193216712f4de2f0ec6ddad93c655d6dc5512f3cc0d04"
     },
     {
       "platform": "shared",
       "format": "resources",
-      "file": "Kajige-P5-Resources-v1.5.0.zip",
-      "url": "/Kajige-P5-Resources-v1.5.0.zip",
-      "size": 131936316,
-      "sha256": "6f0419e9c14e31b43bacff93bf2c918df3ead58b4567f817eee226375908cd4f"
+      "file": "Kajige-P5-Resources-v1.6.0.zip",
+      "url": "/Kajige-P5-Resources-v1.6.0.zip",
+      "size": 131956798,
+      "sha256": "e84253dae09040bc38f76d45b89b4c055c66651e7d09aecdd2e4db1fd0558325"
     }
   ],
   "update_feed": {
@@ -179,9 +179,9 @@
     "repository": "ZehuaKcrissLi/kajige-p5-dist",
     "manifest_repository": "ZehuaKcrissLi/kajige-p5-feed",
     "repository_ref": "main",
-    "release_tag": "v1.5.0-p6-portable-vendor-20261009",
-    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.5.0-p6-portable-vendor-20261009",
-    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.5.0-p6-portable-vendor-20261009",
+    "release_tag": "v1.6.0-p6-creative-20261009",
+    "release_page": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/tag/v1.6.0-p6-creative-20261009",
+    "release_asset_base": "https://github.com/ZehuaKcrissLi/kajige-p5-dist/releases/download/v1.6.0-p6-creative-20261009",
     "repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-dist/main",
     "manifest_repository_raw_base": "https://raw.githubusercontent.com/ZehuaKcrissLi/kajige-p5-feed/main",
     "github_accelerators": [

@@ -1,21 +1,21 @@
 {
   "schema": 2,
   "product": "咔鸡哥 P5 团本训练服",
-  "release_id": "1.5.0-20261009T210352Z",
-  "published_at": "2026-10-09T21:03:52Z",
-  "minimum_launcher_version": "1.5.0",
+  "release_id": "1.6.0-20261010T041957Z",
+  "published_at": "2026-10-10T04:19:57Z",
+  "minimum_launcher_version": "1.6.0",
   "launchers": {
     "macos-arm64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/f57403e40e5c301d2966902b192df629e5446a482d484ddcfb46f94ebaa3e6f8",
-      "size": 13443908,
-      "sha256": "f57403e40e5c301d2966902b192df629e5446a482d484ddcfb46f94ebaa3e6f8",
-      "version": "1.5.0"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/e1b91135f13f8e0dc265ff6a9fc6d37bf4bf80a8274002c5071599100c999009",
+      "size": 13444113,
+      "sha256": "e1b91135f13f8e0dc265ff6a9fc6d37bf4bf80a8274002c5071599100c999009",
+      "version": "1.6.0"
     },
     "windows-amd64": {
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/ea458711f353a6e9f5b86387eeb924de5584ff284d1c38c3e0c788bed39368a6",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/48ad82965bae046ee19fe061a717559194e080996b972b453aae4dc68215beef",
       "size": 12041216,
-      "sha256": "ea458711f353a6e9f5b86387eeb924de5584ff284d1c38c3e0c788bed39368a6",
-      "version": "1.5.0"
+      "sha256": "48ad82965bae046ee19fe061a717559194e080996b972b453aae4dc68215beef",
+      "version": "1.6.0"
     }
   },
   "files": [
@@ -213,15 +213,21 @@
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/!KajigeSWTControl.toc",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/a5090f3fd727bd3681b81864cbcddc4294fe7d314072e71e9748bb7316db8f0d",
-      "size": 474,
-      "sha256": "a5090f3fd727bd3681b81864cbcddc4294fe7d314072e71e9748bb7316db8f0d"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/5f8446c2f2a077157e5c7312a274e3750c278ff072982b123e1e5da3b90e3694",
+      "size": 496,
+      "sha256": "5f8446c2f2a077157e5c7312a274e3750c278ff072982b123e1e5da3b90e3694"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/AIConsole.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/7eed9e13b2d27273ef242da1ebff0fc5f6bc04780a378a864aec12e3eca17b35",
-      "size": 14149,
-      "sha256": "7eed9e13b2d27273ef242da1ebff0fc5f6bc04780a378a864aec12e3eca17b35"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/0f770ee39924c2b65eee48963c12986b6870f0fe12b2c42e80b28bda1325efd5",
+      "size": 25512,
+      "sha256": "0f770ee39924c2b65eee48963c12986b6870f0fe12b2c42e80b28bda1325efd5"
+    },
+    {
+      "path": "Interface/AddOns/!KajigeSWTControl/CreativeWorkbench.lua",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/7f58cb90f90000ec0a7165cb03cb76c29a8260667fd5b972362f64abe3794b9f",
+      "size": 16634,
+      "sha256": "7f58cb90f90000ec0a7165cb03cb76c29a8260667fd5b972362f64abe3794b9f"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/ItemWorkshop.lua",
@@ -231,9 +237,9 @@
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/KajigeSWTControl.lua",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/805c6a2107d382c8555eab792a0ee532920c936ef02539e440f50926da62644b",
-      "size": 133735,
-      "sha256": "805c6a2107d382c8555eab792a0ee532920c936ef02539e440f50926da62644b"
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/00876c32f96850dff7d402d3aa47a155390c5011c9f3272f73b0cf74273e50c7",
+      "size": 133715,
+      "sha256": "00876c32f96850dff7d402d3aa47a155390c5011c9f3272f73b0cf74273e50c7"
     },
     {
       "path": "Interface/AddOns/!KajigeSWTControl/P4EquipmentData.lua",
@@ -18879,9 +18885,9 @@
     },
     {
       "path": "SunwellTraining/KajigeRelease/MANIFEST.txt",
-      "url": "https://kaji-training.kcriss.dev/updates/blobs/710b005ac161b158575721a4e4dd3bbc56026b28bca920bbd011af88dfa7bf29",
+      "url": "https://kaji-training.kcriss.dev/updates/blobs/ade3339c96df5d108837c24c81f82f81579646b5954fa3ebd0ab9364a386289a",
       "size": 391,
-      "sha256": "710b005ac161b158575721a4e4dd3bbc56026b28bca920bbd011af88dfa7bf29"
+      "sha256": "ade3339c96df5d108837c24c81f82f81579646b5954fa3ebd0ab9364a386289a"
     },
     {
       "path": "SunwellTraining/ThirdPartyLicenses/AllTheThings/AllTheThings-LICENSE.txt",
